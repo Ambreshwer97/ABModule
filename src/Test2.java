@@ -6,5 +6,6 @@ public class Test2 {
 
 		System.out.println("Lead created skelton");
 		System.out.println("tester added the test case");
+		System.out.println("added aditional checks");
 	}
 }
